@@ -68,10 +68,10 @@ The remaining 240 months are held back to reveal the truth.
 | 50 | 0.363 | 0.360 | 2.30 | 0.009 |
 | 200 | 0.438 | 0.437 | 2.77 | −0.006 |
 
-Three things to take from this. The measured selection bias matches the extreme-value
-prediction \(\sigma \cdot E[\max_N Z]\) to within 1% across two orders of magnitude in
-N. At 50 candidates the winner already carries a t-statistic above 2, which clears
-every conventional single-test threshold. And the out-of-sample column stays flat at
+Three things to take from this. The measured selection bias tracks the extreme-value
+prediction \(\sigma \cdot E[\max_N Z]\) to within 4% for every N ≥ 5, across two orders
+of magnitude. At 50 candidates the winner already carries a t-statistic above 2, which
+clears every conventional single-test threshold. And the out-of-sample column stays flat at
 zero throughout, which is what "the signal was worthless" looks like when you finally
 measure it honestly.
 
