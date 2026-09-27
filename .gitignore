@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Re-downloadable in seconds; no reason to version it.
+data_cache/
